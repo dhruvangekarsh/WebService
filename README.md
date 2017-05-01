@@ -10,3 +10,4 @@ Web Services is a cloud-enabled, mobile-ready, offline-storage, AngularJS powere
 
   - php -S localhost:8080
   - https://www.microsoft.com/en-us/download/confirmation.aspx?id=48145
+  - http://www.alphansotech.com/blogs/php-restful-api-framework-slim-tutorial/ (Mysql For Slim)

@@ -15,4 +15,6 @@ Web Services is a cloud-enabled, mobile-ready, offline-storage, AngularJS powere
   - https://component.io/ (Simplify web development)
   - https://stdlib.com/ (StdLib is the easiest way to create, distribute and discover web services)
   - https://starter.someline.com/ (Build Restful APIs or Modern Appseven faster.)
+  - https://fancygrid.com/ (JavaScript grid library with charts integration and server communication.)
+  
   

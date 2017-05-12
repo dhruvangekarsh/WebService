@@ -1,0 +1,21 @@
+http://scrollanim.kissui.io/
+http://leafo.net/sticky-kit/
+http://tutorialzine.com/2016/08/20-protips-for-writing-modern-css/
+http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/
+http://tutorialzine.com/2016/06/learn-git-in-30-minutes/
+http://tutorialzine.com/2016/04/5-flexbox-techniques-you-need-to-know-about/
+http://tutorialzine.com/2015/02/smartphone-remote-control-for-presentations/
+http://tutorialzine.com/2015/01/shoutbox-php-jquery/
+http://tutorialzine.com/2015/02/single-page-app-without-a-framework/
+http://tutorialzine.com/2014/12/you-dont-need-icons-here-are-100-unicode-symbols-that-you-can-use/
+http://nitinhayaran.github.io/Justified.js/demo/index.html
+http://caniuse.com/
+http://ami.responsivedesign.is (Check Resposive)
+http://ascott1.github.io/bigSlide.js/ (menu)
+http://lokeshdhakar.com/projects/color-thief/ (Get Colors from Image)
+http://tutorialzine.com/2014/09/cute-file-browser-jquery-ajax-php/ (File Browser in PHP)
+
+http://demo.tutorialzine.com/2013/08/slideout-footer-css/ (Footer Parallex)
+http://tutorialzine.com/2013/07/quick-tip-parse-urls/ (Get URL data using Javascript)
+
+https://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly (imortant For Touch Menu)
